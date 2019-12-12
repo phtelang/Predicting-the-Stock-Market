@@ -6,7 +6,7 @@ Each row in the file contains a daily record of the price of the S&P500 Index fr
 ### Summary of Results
 The Mean Absolute Error is off by just over 16 points and our average closing price is just under 1875. This isn't a model we would want to use to actually make stock trades, but it isn't bad considering we only used features derived from the closing price and volume history.
 
-To view the code and graphs accurately, please click on this link as some of the Plotly graphs are not displayed directly on Github.
+To view the code and graphs accurately, please __[click on this link](https://nbviewer.jupyter.org/github/phtelang/Predicting-the-Stock-Market/blob/master/Predicting%20the%20Stock%20Market.ipynb)__ as some of the Plotly graphs are not displayed directly on Github.
 
 ### Installation
 - Download the source csv file on your local folder.
